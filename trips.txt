@@ -1,0 +1,3 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+miyako_muroran_route,throughout_the_year,to_miyako,,宮古行き,0,,,1,1
+miyako_muroran_route,throughout_the_year,to_muroran,,室蘭行き,1,,,1,1

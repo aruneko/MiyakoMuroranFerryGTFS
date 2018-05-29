@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+miyako_muroran_route,4010001013509,宮蘭航路,宮古・室蘭フェリー航路,,4,,,,

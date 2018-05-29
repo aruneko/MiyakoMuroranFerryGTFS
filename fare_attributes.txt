@@ -1,0 +1,11 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+adult_special_class,15000,JPY,1,0,4010001013509,
+adult_first_class,12000,JPY,1,0,4010001013509,
+adult_second_class_berth,8000,JPY,1,0,4010001013509,
+adult_second_class,6000,JPY,1,0,4010001013509,
+child_special_class,7500,JPY,1,0,4010001013509,
+child_first_class,6000,JPY,1,0,4010001013509,
+child_second_class_berth,4000,JPY,1,0,4010001013509,
+child_second_class,3000,JPY,1,0,4010001013509,
+student_second_class_berth,6800,JPY,1,0,4010001013509,
+student_second_class,4800,JPY,1,0,4010001013509,

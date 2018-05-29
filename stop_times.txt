@@ -1,0 +1,5 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
+to_miyako,20:00:00,20:00:00,silver_muroran,1,,0,0,,
+to_miyako,30:00:00,30:00:00,silver_miyako,2,,0,0,,
+to_muroran,08:00:00,08:00:00,silver_miyako,1,,0,0,,
+to_muroran,18:00:00,18:00:00,silver_muroran,2,,0,0,,

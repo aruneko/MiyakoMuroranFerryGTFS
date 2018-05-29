@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+throughout_the_year,1,1,1,1,1,1,1,20180622,20190630

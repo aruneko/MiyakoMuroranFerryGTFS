@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+silver_muroran,,室蘭フェリーターミナル,,42.3252094,140.9747954,silver_muroran,,0,,Asia/Tokyo,1
+silver_miyako,,宮古フェリーターミナル,,39.6264713,141.968203,silver_miyako,,0,,Asia/Tokyo,1
