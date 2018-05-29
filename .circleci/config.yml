@@ -1,0 +1,20 @@
+version: 2
+jobs:
+  build:
+    filters:
+      tags:
+        only: /^v.*/
+    docker:
+      - image: debian:stretch
+    steps:
+      - checkout
+      - run:
+          name: install zip
+          command: |
+            apt update
+            apt install -y zip
+      - run:
+          name: create zip
+          command: zip MiyakoMuroranFerryGTFS_$(CIRCLE_TAG).zip *.txt
+      - store_artifacts:
+          path: ./MiyakoMuroranFerryGTFS.zip
